@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Vymazať obrázky (%s) v cloude?</item>
+        <item quantity="one">Vymazať obrázok (%s) v cloude?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Vymazať obrázky (%s)?</item>
+        <item quantity="one">Vymazať obrázok (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Vymazať videá (%s) v cloude?</item>
+        <item quantity="one">Vymazať video (%s) v cloude?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Vymazať videá (%s)?</item>
+        <item quantity="one">Vymazať video (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Vymazať obrázky (%s) v zariadení a cloude?</item>
+        <item quantity="one">Vymazať obrázok (%s) v zariadení a cloude?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Vymazať videá (%s) v zariadení a cloude?</item>
+        <item quantity="one">Vymazať video (%s) v zariadení a cloude?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Vybraných: %1$d </item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">Položiek: %1$d</item>
+        <item quantity="zero">Položiek: %1$d</item>
+        <item quantity="one">Položiek: %1$d</item>
+    </plurals>
+	<plurals name="how_many_pics">
+        <item quantity="other">Fotografie: %d</item>
+        <item quantity="one">Fotografie: %d</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">Videá: %d</item>
+        <item quantity="one">Videá: %d</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">Zložky: %d</item>
+        <item quantity="one">Zložky: %d</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Némáte oprávnenie vymazať tieto súbory %d.</item>
+        <item quantity="one">Némáte oprávnenie vymazať tieto súbory %d.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Môžete vybrať %d položiek</item>
+        <item quantity="one">Môžete vybrať %d položku</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s fotografie %2$s >></item>
+        <item quantity="one">%1$s fotografie %2$s >></item>
+    </plurals>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Vymazať %1$s albumy (celkom %2$s)?</item>
+        <item quantity="one">Vymazať %1$s album (celkom %2$s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> Vymazať &amp;lt;xliff:g id=ITEM>%1$d videí&amp;lt;/xliff:g> z %2$d albumov?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Vymazať &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> z %2$d albumov?&lt;/Data>" "</item>
+    </plurals>
+</resources>
